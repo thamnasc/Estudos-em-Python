@@ -1,0 +1,1 @@
+Os códigos de "Hurdle Exercices" foram feitos para funcionar no jogo "Reeborg's World", que tem como objetivo a aprendizagem de programação interativa. Os quadro códigos estão em nível de dificuldade progressiva, os quais foram feitos para o robô atravessar obstáculos.

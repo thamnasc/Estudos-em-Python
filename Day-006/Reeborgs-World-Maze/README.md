@@ -1,0 +1,1 @@
+O código "Maze" foi feito para funcionar no jogo "Reeborg's World", que tem como objetivo a aprendizagem de programação interativa. Este código tem o objetivo de sair de um labirinto.
