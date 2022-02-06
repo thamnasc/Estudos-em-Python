@@ -1,0 +1,1 @@
+Repositório para documentar meus estudos na Linguagem Python :snake:
