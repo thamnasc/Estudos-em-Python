@@ -1,4 +1,4 @@
-# Gerador de Senha
+# Gerador de Senha :asterisk:
 
 ### O código gera uma senha aleatória de acordo com a quantidade de letras, símbolos e números que o usuário desejar.
 
@@ -6,12 +6,12 @@
 
 O projeto foi resultado do estudo de:
 
-![asterisk](https://github.githubassets.com/images/icons/emoji/unicode/002a-20e3.png) módulo random
+:round_pushpin: módulo random
 
-![asterisk](https://github.githubassets.com/images/icons/emoji/unicode/002a-20e3.png) loop for
+:round_pushpin: loop for
 
-![asterisk](https://github.githubassets.com/images/icons/emoji/unicode/002a-20e3.png) métodos para listas, como .shuffle(), .append(), random.choice()
+:round_pushpin: métodos para listas, como .shuffle(), .append(), random.choice()
 
-![asterisk](https://github.githubassets.com/images/icons/emoji/unicode/002a-20e3.png) concatenação de strings com o loop for
+:round_pushpin: concatenação de strings com o loop for
 
-![asterisk](https://github.githubassets.com/images/icons/emoji/unicode/002a-20e3.png) transformação de strings para lista
+:round_pushpin: transformação de strings para lista
